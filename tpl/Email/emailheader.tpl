@@ -29,7 +29,7 @@ along with Booked Scheduler.  If not, see <http://www.gnu.org/licenses/>.
 			    font: 13px Helvetica, "Lucida Grande", Verdana, Arial, sans-serif;
 			    background-color: #fefefe;
 			    margin: 0px;
-			    color: #333333;
+			    color: #333232;
 			    height: 100%;
 			}
 
